@@ -14,3 +14,7 @@ d = date('2019-11-23')
 print(d)
 
 print('kkkk')
+
+print('a')
+print('b')
+print('d')
